@@ -161,6 +161,7 @@
     justify-content: center;
     margin-bottom: 90px;
     flex-wrap: nowrap;
+    overflow:hidden;
  }
  .w{
     width: 20%;
